@@ -1,3 +1,7 @@
+
+[![NPM version](https://badge.fury.io/js/jquery-loader.png)](http://badge.fury.io/js/jquery-loader)
+[![Build Status](https://api.travis-ci.org/netroy/jquery-loader.png?branch=master)](https://travis-ci.org/netroy/jquery-loader)
+
 NOTE
 ====
 Almost a fork for node-jquery, but rewritten because the jquery team is taking over maintaining the `jQuery` package [coolaj86/node-jquery#59](https://github.com/coolaj86/node-jquery/issues/59).
@@ -10,8 +14,6 @@ failure has to do with building contextify on window. It seems to be a windows
 environment issue. I don't have access to a windows machine so I cannot explore
 working through the windows install process. If you figure out how to build
 [contextify](https://github.com/brianmcd/contextify) on windows please send me working instructions!
-
-[![Build Status](https://api.travis-ci.org/netroy/jquery-loader.png?branch=master)](https://travis-ci.org/netroy/jquery-loader)
 
 Installing.
 ====
