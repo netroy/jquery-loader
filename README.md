@@ -59,7 +59,7 @@ You may also specify the version of jQuery you'd like to use
 ```javascript
     var $ = require('jquery')(null, '1.9');
 ```
-Currently the version defaults to `1.8.3`.
+Currently the version defaults to `1.10.1`.
 
 Following versions are available -
 
@@ -67,7 +67,8 @@ Following versions are available -
 * 1.7(.2)
 * 1.8(.3)
 * 1.9(.1)
-* 2.0(.0)
+* 1.10(.1)
+* 2.0(.3)
 
 JSONP Example
 ----
