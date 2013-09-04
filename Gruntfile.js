@@ -8,7 +8,7 @@ module.exports = function(grunt) {
   var log = grunt.log;
 
   // Available versions of jQuery on CDN
-  var jQVersions = ['1.6.4', '1.7.2', '1.8.3', '1.9.1', '2.0.0'];
+  var jQVersions = ['1.6.4', '1.7.2', '1.8.3', '1.9.1', '1.10.1', '2.0.3'];
   var cdnHost = 'code.jquery.com';
   var destDir = path.join(__dirname, 'src');
 
