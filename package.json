@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "jsdom": "~0.8.4",
+    "jsdom": "~0.8.8",
     "xmlhttprequest": "~1.6.0"
   },
   "devDependencies": {
