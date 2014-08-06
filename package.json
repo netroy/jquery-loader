@@ -1,7 +1,7 @@
 {
   "name": "jquery-loader",
   "description": "jQuery loader for node.js",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "homepage": "https://github.com/netroy/jquery-loader",
   "author": {
     "name": "Aditya",
