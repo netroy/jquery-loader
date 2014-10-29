@@ -16,6 +16,7 @@ module.exports = function(grunt) {
     '1.10.2',
     '1.11.1',
     '2.0.3',
+    '2.1.0',
     '2.1.1'
   ];
   var cdnHost = 'code.jquery.com';

@@ -69,6 +69,7 @@ Following versions are available -
 * 1.9(.1)
 * 1.10(.1)
 * 2.0(.3)
+* 2.1(.1)
 
 JSONP Example
 ----
