@@ -27,7 +27,7 @@ context.q = function query_ids() {
 function recreate_doc(fixture) {
 	var markup = fs.readFileSync('test/fixtures/' + (fixture||'core') + '.html', 'utf8');
 	context.document = jsdom(markup);
-	context.window = context.document.createWindow();
+	context.window = context.document.parentWindow;
 	context.$ = jquery.create(context.window, '1.8');
 }
 

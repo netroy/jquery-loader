@@ -36,7 +36,7 @@ In Node.JS you may also create separate window instances
 
 ```javascript
     var jsdom = require('jsdom').jsdom
-      , myWindow = jsdom().createWindow()
+      , myWindow = jsdom().parentWindow
       , $ = require('jquery').create()
       , jQuery = require('jquery').create(myWindow)
       ;
